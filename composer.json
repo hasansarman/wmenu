@@ -1,12 +1,12 @@
 {
-    "name": "garcia/wmenu",
+    "name": "hasansarman/wmenu",
     "description": "",
         "keywords": ["menu", "wordpress menu", "wordpress", "laravel", "cms","wmenu"],
 
     "authors": [
         {
-            "name": "Cristian Garcia",
-            "email": "informacion@cristiangarcia.co"
+            "name": "Cristian Garcia,Hasan SARMAN",
+            "email": "hasansarman@gmail.com"
         }
     ],
     "require": {
